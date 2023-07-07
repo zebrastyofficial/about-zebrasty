@@ -1,0 +1,72 @@
+@font-face {
+    font-family: IntegralCF;
+    src: url(IntegralCF.otf);
+}
+body {
+    background-color: #131313;
+    font-family: IntegralCF;
+    color: white;
+}
+
+header {
+    margin-top: 250px;
+    margin-bottom: 300px;
+    text-align: center;
+}
+.hi {
+    font-size: 30px;
+}
+.im-zebrasty {
+    font-size: 60px;
+}
+
+.about-me {
+    margin: auto;
+    text-align: center;
+    padding: 10px 20px 10px 20px;
+    width: 800px;
+    background-color: black;
+    border-radius: 20px;
+    margin-bottom: 300px;
+}
+.about-me h2 {
+    font-size: 70px;
+}
+.about-me p {
+    font-size: 40px;
+}
+
+.coding-in {
+    margin: auto;
+    text-align: center;
+    padding: 10px 20px 10px 20px;
+    width: 800px;
+    background-color: black;
+    border-radius: 20px;
+    margin-bottom: 300px;
+}
+.coding-in h2 {
+    font-size: 70px;
+}
+.coding-in p {
+    font-size: 40px;
+}
+
+.media {
+    margin: auto;
+    text-align: center;
+    padding: 10px 20px 10px 20px;
+    width: 800px;
+    background-color: black;
+    border-radius: 20px;
+    margin-bottom: 300px;
+}
+.media h2 {
+    font-size: 70px;
+}
+.media p {
+    font-size: 40px;
+}
+.media a {
+    text-decoration: none;
+}
